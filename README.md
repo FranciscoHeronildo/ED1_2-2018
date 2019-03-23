@@ -1,2 +1,2 @@
 # EstruturasDeDados01_2-2018
-Repositório para os Projetos da Disciplina Estruturas de Dados 01 da Universidade de Brasília  
+Repositório dedicado para os projetos da disciplina de Estruturas de Dados 01 da Universidade de Brasília  

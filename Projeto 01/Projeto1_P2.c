@@ -1,6 +1,3 @@
-//Francisco Heoronildo - 160006210 - Turma A
-//Projeto 01 - Problema2
-
 #include<stdio.h>
 #include<stdlib.h>
 
